@@ -1,20 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7c3aed" />
-      <stop offset="100%" stop-color="#4c1d95" />
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="url(#bg)" />
-  <text
-    x="32"
-    y="39"
-    text-anchor="middle"
-    font-size="28"
-    font-family="Segoe UI, Arial, sans-serif"
-    font-weight="700"
-    fill="#ffffff"
-  >
-    GC
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1302" height="1208" viewBox="0 0 1302 1208">
+  <rect width="1302" height="1208" fill="rgb(14,14,16)"/>
+  <rect x="111" y="65" width="1080" height="1076" rx="236" ry="236" fill="rgb(10,184,53)"/>
+  <text x="651.0" y="684.0" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="434"
+        font-weight="700" fill="white">FS</text>
 </svg>
